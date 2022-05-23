@@ -1,0 +1,117 @@
+
+
+body {margin: 0;
+text-align: center;
+font-family: 'Fira Sans Condensed', sans-serif;
+background-color: #F7F7F7;}
+
+h1 {margin: 50px auto 0 auto;
+font-family: 'Grenze Gotisch', cursive;
+font-size: 80px;
+color: #66BFBF;
+line-height: 2;}
+
+h2 {font-size: 2rem;
+color: #66BFBF;
+font-weight: normal;}
+
+h3 {color: #11999E;}
+
+hr {
+  margin: 100px auto;
+  border-style: dotted none none;
+width: 4%;
+height: 10px;
+border-width: 8px;
+border-color: #BBBFCA;}
+
+p {line-height: 2;}
+
+.intro {width: 20%;
+margin: auto;}
+
+.skill-row1 {
+width:30%;
+margin: 100px auto;
+text-align: left;
+}
+
+.skill-row2 {
+width:30%;
+margin: 200px auto
+100px;
+text-align: left;
+}
+
+.pro {text-decoration: underline;}
+
+.top-container {background-color: #E8F9FD;
+  position: relative;
+padding-top: 100px}
+
+.top-cloud {
+position: absolute;
+right:30%;
+top:10%;}
+
+.bottom-cloud {position: absolute;
+  left: 30%;
+  bottom: 40%;}
+
+.dp {
+width: 8%;}
+
+.computer {
+width: 40%;
+float: left;
+margin-right: 30px;
+}
+
+.paint {
+width: 40%;
+float: right;
+margin-left: 30px;
+}
+
+.pbeforecontactme {margin: auto auto 80px;
+width: 30%;}
+
+.btn {
+  background: #1cd5db;
+  background-image: -webkit-linear-gradient(top, #1cd5db, #11999E);
+  background-image: -moz-linear-gradient(top, #1cd5db, #11999E);
+  background-image: -ms-linear-gradient(top, #1cd5db, #11999E);
+  background-image: -o-linear-gradient(top, #1cd5db, #11999E);
+  background-image: linear-gradient(to bottom, #1cd5db, #11999E);
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  -webkit-box-shadow: 0 1px 3px #11999E;
+  -moz-box-shadow: 0 1px 3px #11999E;
+  box-shadow: 0 1px 3px #11999E;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0cdceb;
+  text-decoration: none;
+}
+
+.bottom-container {margin-top: 80px;
+background-color: #66BFBF;
+ padding: 50px 0 10px;}
+
+.footer-link {color: #11999E;
+font-size: 20px;
+margin: 30px 20px 30px;
+text-decoration: none;
+}
+
+a:hover {color: #EAF6F6}
+
+.plast {color: white;
+margin: 30px auto 0;}
