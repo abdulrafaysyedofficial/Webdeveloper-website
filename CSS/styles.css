@@ -7,15 +7,16 @@ background-color: #F7F7F7;}
 
 h1 {margin: 50px auto 0 auto;
 font-family: 'Grenze Gotisch', cursive;
-font-size: 80px;
+font-size: 10rem;
 color: #66BFBF;
 line-height: 2;}
 
-h2 {font-size: 2rem;
+h2 {font-size: 5rem;
 color: #66BFBF;
 font-weight: normal;}
 
-h3 {color: #11999E;}
+h3 {color: #11999E;
+font-size: 3rem;}
 
 hr {
   margin: 100px auto;
@@ -25,7 +26,8 @@ height: 10px;
 border-width: 8px;
 border-color: #BBBFCA;}
 
-p {line-height: 2;}
+p {line-height: 2;
+font-size: 2rem;}
 
 .intro {width: 20%;
 margin: auto;}
@@ -49,16 +51,17 @@ text-align: left;
   position: relative;
 padding-top: 100px}
 
-.top-cloud {
-position: absolute;
-right:30%;
-top:10%;}
+.top-cloud {position: absolute;
+right:20%;
+top:10%;
+width: 15rem;}
 
 .bottom-cloud {position: absolute;
-  left: 30%;
-  bottom: 40%;}
+  left: 20%;
+  bottom: 40%;
+width: 15rem;}
 
-.dp {
+.dp {margin-top: 5%;
 width: 8%;}
 
 .computer {
@@ -91,7 +94,7 @@ width: 30%;}
   box-shadow: 0 1px 3px #11999E;
   font-family: Arial;
   color: #ffffff;
-  font-size: 21px;
+  font-size:  2rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
@@ -114,4 +117,5 @@ text-decoration: none;
 a:hover {color: #EAF6F6}
 
 .plast {color: white;
-margin: 30px auto 0;}
+margin: 30px auto 0;
+font-size: 1rem;}
